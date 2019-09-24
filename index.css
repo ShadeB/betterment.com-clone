@@ -1,0 +1,62 @@
+
+
+div {
+    margin-top: 35px;
+    background-color: white;
+}
+
+.top-content span a{
+    width: 15px;
+    padding: 15px;
+    margin-left: 15px;
+    font-size: 18px;
+    text-decoration: none;
+    color: grey;
+}
+
+.top-content span a:hover {
+    cursor: pointer;
+    border-bottom-style: outset;
+}
+
+.top-content span a:nth-child(1) {
+    font-weight: bolder;
+    color: black;
+}
+
+.top-content span a:nth-child(6) {
+    border: 2px solid rgb(0, 81, 255);
+    padding: 15px 30px;
+    color: blue;
+    margin-left: 100px;
+    border-radius: 2px;
+    font-weight: bold;
+}
+
+
+.top-content span a:nth-child(7) {
+    border: none;
+    padding: 17px 20px;
+    margin-left: 0.5px;
+    border-radius: 2px;
+    background-color: #1d6ae5;
+    color: white;
+    text-align: center;
+    font-weight: bold;
+}
+
+
+#heading {
+    text-align: left;
+    width: 70%;
+    padding-left: 10px;
+}
+
+#heading h1{
+    font-weight: bold;
+    font-size: 120px;
+
+}
+
+
+
