@@ -1,7 +1,9 @@
-
+html {
+    margin: 0!important;
+}
 div {
     background-color: white;
-    display: block;
+    
 }
 
 a {
@@ -114,6 +116,43 @@ a {
 .every-dollar {
     font-size: 40px;
     width: 33%;
+}
+
+.savings {
+    width: 33%;
+    font-size: 18px;
+    color: grey;
+}
+
+#promise > a{
+    color: #1d6ae5;
+    text-decoration: none;
+    font-size: 16.5px;
+}
+
+#savings {
+    border-left: 2px solid #1d6ae5;
+    padding-left: 25px;
+    margin-bottom: 0!important;
+    bottom: 0!important;
+}
+
+#savings > h1{
+    font-size: 75px;
+}
+
+#savings > p {
+    margin-bottom: 0!important;
+}
+
+.invest {
+    margin: 0!important;
+    background-color: #f3f4f8;
+}
+
+.invest > img {
+    width: 45%;
+    float:left;
 }
 
 
